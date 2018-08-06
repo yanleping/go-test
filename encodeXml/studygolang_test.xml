@@ -1,0 +1,40 @@
+<VAST>
+	<Ad>
+		<InLine>
+			<AdSystem version="1.0">Mintegral</AdSystem>
+			<AdTitle>233_app</AdTitle>
+			<Description>233_desc</Description>
+			<Impression></Impression>
+			<Creatives></Creatives>
+			<Extensions>
+				<Extension>
+					<SystemIcon></SystemIcon>
+					<SkipMessage></SkipMessage>
+					<Click></Click>
+					<VerticalView></VerticalView>
+					<PopupMod></PopupMod>
+					<FullStar></FullStar>
+				</Extension>
+			</Extensions>
+		</InLine>
+	</Ad>
+	<Ad>
+		<InLine>
+			<AdSystem version="1.0">Mintegral</AdSystem>
+			<AdTitle>233_app</AdTitle>
+			<Description>233_desc</Description>
+			<Impression></Impression>
+			<Creatives></Creatives>
+			<Extensions>
+				<Extension>
+					<SystemIcon></SystemIcon>
+					<SkipMessage></SkipMessage>
+					<Click></Click>
+					<VerticalView></VerticalView>
+					<PopupMod></PopupMod>
+					<FullStar></FullStar>
+				</Extension>
+			</Extensions>
+		</InLine>
+	</Ad>
+</VAST>

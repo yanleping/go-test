@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<VAST>
+
+    <Ad>
+
+        <InLine>
+
+            <AdSystem version="1.0">Mintegral</AdSystem>
+
+            <AdTitle>熹妃Q傳</AdTitle>
+
+            <Description>熹妃Q傳-愛戀掛機好簡單 交友宮鬥不無聊&#xA;&#xA;暢銷宮鬥小說《清宮熹妃傳》改編手遊，3D動畫重現經典小說劇情，親 &#xA;身宮鬥、掛機升級，還可以調戲皇上、搭訕......</Description>
+
+            <Impression><![CDATA[http://sg01.rayjump.com/impression?k=5b61b2a4c63b7143ec3c0946&p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&x=0&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&al=4.5%2C0.00859587%2C0.011549%2C2%2C1%3B0%2C1&csp=i%2BMeGURefARPiAvTGaEe6acIfUDMfbMeGUEA6aNM6aj%3D]]></Impression>
+
+            <Creatives>
+
+                <Creative sequence="1">
+
+                    <AdId>0</AdId>
+
+                    <Linear>
+
+                        <Duration>08:00:15</Duration>
+
+                        <TrackingEvents>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=0]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                        </TrackingEvents>
+
+                        <VideoClicks>
+
+                            <ClickThrough><![CDATA[http://sg01.rayjump.com/click?k=5b61b2a4c63b7143ec3c0946&p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&al=4.5%2C0.00859587%2C0.011549%2C2%2C1%3B0%2C1&csp=i%2BMeGURefARPiAvTGaEe6acIfUDMfbMeGUEA6aNM6aj%3D]]></ClickThrough>
+
+                        </VideoClicks>
+
+                        <MediaFiles>
+
+                            <MediaFile bitrate="42774" delivery="progressive"></MediaFile>
+
+                        </MediaFiles>
+
+                    </Linear>
+
+                    <CompanionAds></CompanionAds>
+
+                </Creative>
+
+                <Creative sequence="1">
+
+                    <AdId>0</AdId>
+
+                    <Linear>
+
+                        <TrackingEvents></TrackingEvents>
+
+                        <VideoClicks>
+
+                            <ClickThrough></ClickThrough>
+
+                        </VideoClicks>
+
+                        <MediaFiles>
+
+                            <MediaFile></MediaFile>
+
+                        </MediaFiles>
+
+                    </Linear>
+
+                    <CompanionAds></CompanionAds>
+
+                </Creative>
+
+                <Creative sequence="1">
+
+                    <AdId>0</AdId>
+
+                    <Linear>
+
+                        <Duration>08:00:15</Duration>
+
+                        <TrackingEvents>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=0]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=25]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                        </TrackingEvents>
+
+                        <VideoClicks>
+
+                            <ClickThrough><![CDATA[http://sg01.rayjump.com/click?k=5b61b2a4c63b7143ec3c0946&p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&al=4.5%2C0.00859587%2C0.011549%2C2%2C1%3B0%2C1&csp=i%2BMeGURefARPiAvTGaEe6acIfUDMfbMeGUEA6aNM6aj%3D]]></ClickThrough>
+
+                        </VideoClicks>
+
+                        <MediaFiles>
+
+                            <MediaFile bitrate="42774" delivery="progressive"></MediaFile>
+
+                        </MediaFiles>
+
+                    </Linear>
+
+                    <CompanionAds></CompanionAds>
+
+                </Creative>
+
+                <Creative sequence="1">
+
+                    <AdId>0</AdId>
+
+                    <Linear>
+
+                        <TrackingEvents></TrackingEvents>
+
+                        <VideoClicks>
+
+                            <ClickThrough></ClickThrough>
+
+                        </VideoClicks>
+
+                        <MediaFiles>
+
+                            <MediaFile></MediaFile>
+
+                        </MediaFiles>
+
+                    </Linear>
+
+                    <CompanionAds></CompanionAds>
+
+                </Creative>
+
+                <Creative sequence="1">
+
+                    <AdId>0</AdId>
+
+                    <Linear>
+
+                        <Duration>08:00:15</Duration>
+
+                        <TrackingEvents>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=0]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=25]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=50]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                        </TrackingEvents>
+
+                        <VideoClicks>
+
+                            <ClickThrough><![CDATA[http://sg01.rayjump.com/click?k=5b61b2a4c63b7143ec3c0946&p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&al=4.5%2C0.00859587%2C0.011549%2C2%2C1%3B0%2C1&csp=i%2BMeGURefARPiAvTGaEe6acIfUDMfbMeGUEA6aNM6aj%3D]]></ClickThrough>
+
+                        </VideoClicks>
+
+                        <MediaFiles>
+
+                            <MediaFile bitrate="42774" delivery="progressive"></MediaFile>
+
+                        </MediaFiles>
+
+                    </Linear>
+
+                    <CompanionAds></CompanionAds>
+
+                </Creative>
+
+                <Creative sequence="1">
+
+                    <AdId>0</AdId>
+
+                    <Linear>
+
+                        <TrackingEvents></TrackingEvents>
+
+                        <VideoClicks>
+
+                            <ClickThrough></ClickThrough>
+
+                        </VideoClicks>
+
+                        <MediaFiles>
+
+                            <MediaFile></MediaFile>
+
+                        </MediaFiles>
+
+                    </Linear>
+
+                    <CompanionAds></CompanionAds>
+
+                </Creative>
+
+                <Creative sequence="1">
+
+                    <AdId>0</AdId>
+
+                    <Linear>
+
+                        <Duration>08:00:15</Duration>
+
+                        <TrackingEvents>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=0]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=25]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=50]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=75]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                        </TrackingEvents>
+
+                        <VideoClicks>
+
+                            <ClickThrough><![CDATA[http://sg01.rayjump.com/click?k=5b61b2a4c63b7143ec3c0946&p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&al=4.5%2C0.00859587%2C0.011549%2C2%2C1%3B0%2C1&csp=i%2BMeGURefARPiAvTGaEe6acIfUDMfbMeGUEA6aNM6aj%3D]]></ClickThrough>
+
+                        </VideoClicks>
+
+                        <MediaFiles>
+
+                            <MediaFile bitrate="42774" delivery="progressive"></MediaFile>
+
+                        </MediaFiles>
+
+                    </Linear>
+
+                    <CompanionAds></CompanionAds>
+
+                </Creative>
+
+                <Creative sequence="1">
+
+                    <AdId>0</AdId>
+
+                    <Linear>
+
+                        <TrackingEvents></TrackingEvents>
+
+                        <VideoClicks>
+
+                            <ClickThrough></ClickThrough>
+
+                        </VideoClicks>
+
+                        <MediaFiles>
+
+                            <MediaFile></MediaFile>
+
+                        </MediaFiles>
+
+                    </Linear>
+
+                    <CompanionAds></CompanionAds>
+
+                </Creative>
+
+                <Creative sequence="1">
+
+                    <AdId>0</AdId>
+
+                    <Linear>
+
+                        <Duration>08:00:15</Duration>
+
+                        <TrackingEvents>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=0]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=25]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=50]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=75]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=play_percentage&rate=100]]></Tracking>
+
+                            <Tracking event="mute"><![CDATA[http://sg01.rayjump.com/trackv2?p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&type=online_video&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&key=mute]]></Tracking>
+
+                        </TrackingEvents>
+
+                        <VideoClicks>
+
+                            <ClickThrough><![CDATA[http://sg01.rayjump.com/click?k=5b61b2a4c63b7143ec3c0946&p=fHx8fHx8fG9ubGluZV92aWRlb3xWSURFT3x8aW9zfDExLjN8MHxpcGhvbmU3LDJ8fDF8fHpofHdpZml8fHx8TU5vcm1hbEFscGhhTW9kZWxSYW5rZXI7MTA7MzE1OzE5OzA7MTk7MjsxX21vZGVsX2Jhc2UtM19jcmVhdGl2ZV9iYXNlOzA7MHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOGZ8fHx8fHx8fDM5LjEwOS4xMjQuOTN8fHx8fHx8fHxBNUEzNjhBRi04OERBLTQxQkEtQUU5Qi05MERFOUE0MDNDRTJ8fGFwcGxlfHw1YjYxYjJhNGM2M2I3MTQzZWMzM2MwOTB8NWI2MWIyYTRjNjNiNzE0M2VjMzNjMDkxfHx8fHwxfHwsfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHw%3D&q=a_i09M6dfgiaj%2FhrcPLg5whoPUYF2IfkRFikRBDnxUfUf0fAjTiF5UiFiMGnNF6a50fUc0irjTDADADUhefafQDAiADAv9HgMeiUD2GdMeiavefnQIiAvFfUcIGnvA6aRefARPiAvTGdMTWUVM6aN%2FfnSIDkx%2FH%2Bx6DkxAH%2BzFH%2BzIinSIZjwIWncIinfIi%2BMeiavefnQIiA3M6ajeWUv%2FfdeXh75%2FD%2BSu6aSI6o2IfaSIidMeiavefnQIidMM6aSIi%2BeIfdeIideuHaNBiUl2iAN2GdMB6aRAGnibfa39fAcIideIi%2BMM6dMM6aSI6aSIkBRTWUVMR0M0fo92ioRsRUj0WoReRQ2IfnNM6aSIidM%3D&r=eyJnaWQiOiJmOTU1ZWIxMWVhZTlmY2RmYTAyNGRkNWVlZGIyZDUwZiIsInRwaWQiOjAsImNyYXQiOjAsImFkdl9jcmlkIjowLCJpY2MiOjEsImdsaXN0IjoiNDAxLDIzNzE4MTY0MjUsMCx8NDAyLDIzNzE4MTY0MjYsMCx8NDAzLDIzNzE4MTY0MjcsMCx8NDA0LDIzNzE4MTY0MjgsMCx8NDA1LDIzNzE4MTY0MjksMCx8MTA2LDI0NTUwNzY5ODIsMTc4NDU3NSx8MjAxLDIzOTM3NDk4NzEsMTExOTI5Myw3MjB4MTI4MHw0MDYsMjM3MTgxNjQzMCwwLCIsInBpIjo0LjUsInBvIjo0LjUsImRjbyI6MH0%3D&al=4.5%2C0.00859587%2C0.011549%2C2%2C1%3B0%2C1&csp=i%2BMeGURefARPiAvTGaEe6acIfUDMfbMeGUEA6aNM6aj%3D]]></ClickThrough>
+
+                        </VideoClicks>
+
+                        <MediaFiles>
+
+                            <MediaFile bitrate="42774" delivery="progressive"></MediaFile>
+
+                        </MediaFiles>
+
+                    </Linear>
+
+                    <CompanionAds></CompanionAds>
+
+                </Creative>
+
+                <Creative sequence="1">
+
+                    <AdId>0</AdId>
+
+                    <Linear>
+
+                        <TrackingEvents></TrackingEvents>
+
+                        <VideoClicks>
+
+                            <ClickThrough></ClickThrough>
+
+                        </VideoClicks>
+
+                        <MediaFiles>
+
+                            <MediaFile></MediaFile>
+
+                        </MediaFiles>
+
+                    </Linear>
+
+                    <CompanionAds></CompanionAds>
+
+                </Creative>
+
+            </Creatives>
+
+            <Extensions>
+
+                <Extension type="Extra">
+
+                    <CTA>安装</CTA>
+
+                    <StarRating>5</StarRating>
+
+                    <CommentNum>42774</CommentNum>
+
+                    <SystemIcon height="22" width="94" creativeType="image/png"><![CDATA[https://cdn-adn-https.rayjump.com/cdn-adn/default-icon/mintergral_icon.png]]></SystemIcon>
+
+                    <SkipMessage></SkipMessage>
+
+                    <Click></Click>
+
+                    <VerticalView></VerticalView>
+
+                    <PopupMod></PopupMod>
+
+                    <FullStar></FullStar>
+
+                    <HalfStar></HalfStar>
+
+                    <EmptyStar></EmptyStar>
+
+                    <CTAButton></CTAButton>
+
+                </Extension>
+
+            </Extensions>
+
+        </InLine>
+
+    </Ad>
+
+</VAST>
