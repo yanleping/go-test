@@ -3,6 +3,10 @@ package main
 import (
 	"golang.org/x/net/context"
 	pb "goTest/grpc/proto"
+	"net"
+	"log"
+	"google.golang.org/grpc"
+	"google.golang.org/grpc/reflection"
 )
 
 const (
@@ -18,17 +22,17 @@ func (s *server) SayHello(ctx context.Context, in *pb.HelloRequest) (*pb.HelloRe
 }
 
 func main() {
-	//lis, err := net.Listen("tcp", port)
-	//if err != nil {
-	//	log.Fatalf("failed to listen: %v", err)
-	//}
-	//s := grpc.NewServer()
-	//pb.RegisterGreeterServer(s, &server{})
-	//// Register reflection service on gRPC server.
-	//reflection.Register(s)
-	//if err := s.Serve(lis); err != nil {
-	//	log.Fatalf("failed to serve: %v", err)
-	//}
+	lis, err := net.Listen("tcp", port)
+	if err != nil {
+		log.Fatalf("failed to listen: %v", err)
+	}
+	s := grpc.NewServer()
+	pb.RegisterGreeterServer(s, &server{})
+	// Register reflection service on gRPC server.
+	reflection.Register(s)
+	if err := s.Serve(lis); err != nil {
+		log.Fatalf("failed to serve: %v", err)
+	}
 
 	//str := strconv.FormatInt(10, 10)
 	//var _startDate int64 = time.Now().Unix()
@@ -36,6 +40,6 @@ func main() {
 
 	//print(startDate)
 
-	var arr []int
-	arr = append(arr, 11)
+	//var arr []int
+	//arr = append(arr, 11)
 }
